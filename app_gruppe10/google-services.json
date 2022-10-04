@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082533732874",
+    "project_id": "tidey-1b4a5",
+    "storage_bucket": "tidey-1b4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082533732874:android:9634cacbbd348f9dbab5f3",
+        "android_client_info": {
+          "package_name": "com.example.tidey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082533732874-b5j14d7gh73m25cgud148jen3e5nkelk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tidey",
+            "certificate_hash": "c20b51c3ae215155900c415b386a4955226eb8b0"
+          }
+        },
+        {
+          "client_id": "1082533732874-hfo5u1gi51205edvjp9m838rnj6md3oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PvdWx0f-4yLZJJ15lh5mKyiKVnT9AwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082533732874-hfo5u1gi51205edvjp9m838rnj6md3oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

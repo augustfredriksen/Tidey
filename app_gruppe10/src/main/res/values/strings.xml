@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tidey</string>
+    <string name="google_web_client_id">1082533732874-hfo5u1gi51205edvjp9m838rnj6md3oc.apps.googleusercontent.com</string>
+    <string name="Sign_in_with_google">Logg inn med Google</string>
+    <string name="Sign_out">Logg ut</string>
+    <string name="Report_garbage">Meld inn</string>
+    <string name="Statistics">Se Statistikk</string>
+    <string name="Authentication">Autentisering</string>
+    <string name="Camera_permission_accepted">Kameratilgang akseptert</string>
+    <string name="Camera_permission_needed">Kamera-tillatelse trengs for å få tilgang til kamerat</string>
+    <string name="Camera_permission_permanently_denied">Kamera-tilgang har blitt nektet permanent. Du kan endre dette i App-instillinger</string>
+    <string name="No_data_found">Det finnes ingen data.</string>
+    <string name="Last_observed">Sist observert:</string>
+    <string name="Overview">Oversikt</string>
+    <string name="Tide_level">Tidevannsnivå</string>
+    <string name="x_axis">X-akse: Tid</string>
+    <string name="Y_axis">Y-akse: Vannstand i cm</string>
+    <string name="High_tide">Flo</string>
+    <string name="Low_tide">Fjære</string>
+    <string name="Garbage_info">Søppelinformasjon</string>
+    <string name="Choose_garbage_level">Velg søppelnivå.</string>
+    <string name="Garbage">Søppel</string>
+</resources>
